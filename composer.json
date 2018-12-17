@@ -26,7 +26,7 @@
 	"require": {
 		"php": ">=7.1",
 		"nette/di": "^2.4",
-		"darkling/php-zomato-client": "^0.1"
+		"darkling/php-zomato-client": "^0.2"
 	},
 	"require-dev": {
 		"consistence/coding-standard": "^3.0",
